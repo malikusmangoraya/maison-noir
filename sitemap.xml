@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://maison-noir.com</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maison-noir.com/ar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maison-noir.com/en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maison-noir.com"/>
+  </url>
+  <url>
+    <loc>https://maison-noir.com/products</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maison-noir.com/ar/products"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maison-noir.com/en/products"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maison-noir.com/products"/>
+  </url>
+  <url>
+    <loc>https://maison-noir.com/about</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maison-noir.com/ar/about"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maison-noir.com/en/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maison-noir.com/about"/>
+  </url>
+  <url>
+    <loc>https://maison-noir.com/contact</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maison-noir.com/ar/contact"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maison-noir.com/en/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maison-noir.com/contact"/>
+  </url>
+  <url>
+    <loc>https://maison-noir.com/blog</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maison-noir.com/ar/blog"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maison-noir.com/en/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maison-noir.com/blog"/>
+  </url>
+  <url>
+    <loc>https://maison-noir.com/faq</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maison-noir.com/ar/faq"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maison-noir.com/en/faq"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maison-noir.com/faq"/>
+  </url>
+</urlset>
